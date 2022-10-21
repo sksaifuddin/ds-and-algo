@@ -26,3 +26,4 @@ All problems, concepts and notes for ds and algos
 ### Operations:
 1. https://github.com/sksaifuddin/ds-and-algo/blob/main/arrays/operations/LeftRotateArrayOne.java
 2. https://github.com/sksaifuddin/ds-and-algo/blob/main/arrays/operations/ReverseArray.java
+3. https://leetcode.com/problems/rotate-array/ (rotate array D places)
