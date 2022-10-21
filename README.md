@@ -23,7 +23,10 @@ All problems, concepts and notes for ds and algos
 1. https://github.com/sksaifuddin/ds-and-algo/blob/main/arrays/basics/DynamicArray.java
 2. https://github.com/sksaifuddin/ds-and-algo/blob/main/arrays/basics/SingleDimensionArray.java
 
-### Operations:
+### Operations: (basic things with array which you should know how to do)
 1. https://github.com/sksaifuddin/ds-and-algo/blob/main/arrays/operations/LeftRotateArrayOne.java
 2. https://github.com/sksaifuddin/ds-and-algo/blob/main/arrays/operations/ReverseArray.java
 3. https://leetcode.com/problems/rotate-array/ (rotate array D places)
+4. https://practice.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest
+5. https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=check-if-an-array-is-sorted
+6. https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
