@@ -30,3 +30,6 @@ All problems, concepts and notes for ds and algos
 4. https://practice.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest
 5. https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=check-if-an-array-is-sorted
 6. https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+
+### Easy
+1. https://leetcode.com/problems/move-zeroes/
