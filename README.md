@@ -34,3 +34,4 @@ All problems, concepts and notes for ds and algos
 ### Easy
 1. https://leetcode.com/problems/move-zeroes/
 2. https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+3. https://leetcode.com/problems/contains-duplicate/
